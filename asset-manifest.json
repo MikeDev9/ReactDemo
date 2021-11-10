@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MikeDev9/ReactDemo.git/static/css/main.a59208b2.chunk.css",
+    "main.js": "/MikeDev9/ReactDemo.git/static/js/main.e0bc417b.chunk.js",
+    "main.js.map": "/MikeDev9/ReactDemo.git/static/js/main.e0bc417b.chunk.js.map",
+    "runtime-main.js": "/MikeDev9/ReactDemo.git/static/js/runtime-main.a6f24683.js",
+    "runtime-main.js.map": "/MikeDev9/ReactDemo.git/static/js/runtime-main.a6f24683.js.map",
+    "static/js/2.db227c7b.chunk.js": "/MikeDev9/ReactDemo.git/static/js/2.db227c7b.chunk.js",
+    "static/js/2.db227c7b.chunk.js.map": "/MikeDev9/ReactDemo.git/static/js/2.db227c7b.chunk.js.map",
+    "static/js/3.4e8a10a1.chunk.js": "/MikeDev9/ReactDemo.git/static/js/3.4e8a10a1.chunk.js",
+    "static/js/3.4e8a10a1.chunk.js.map": "/MikeDev9/ReactDemo.git/static/js/3.4e8a10a1.chunk.js.map",
+    "index.html": "/MikeDev9/ReactDemo.git/index.html",
+    "static/css/main.a59208b2.chunk.css.map": "/MikeDev9/ReactDemo.git/static/css/main.a59208b2.chunk.css.map",
+    "static/js/2.db227c7b.chunk.js.LICENSE.txt": "/MikeDev9/ReactDemo.git/static/js/2.db227c7b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a6f24683.js",
+    "static/js/2.db227c7b.chunk.js",
+    "static/css/main.a59208b2.chunk.css",
+    "static/js/main.e0bc417b.chunk.js"
+  ]
+}
